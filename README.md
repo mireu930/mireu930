@@ -14,6 +14,7 @@
 ### 💻 tech stack
 ___
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+ <img src="https://img.shields.io/badge/UIKit-00a7ff?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
