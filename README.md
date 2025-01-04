@@ -5,7 +5,7 @@
 <br>
 
 ### 👋 welcome mireu' github
-`뭐든지 할수있다.영차영차 개발`
+`영차영차 개발`
 
 <br>
 <br>
