@@ -35,4 +35,6 @@ ___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mireu930&show_icons=true&title_color=ea9999&icon_color=552b3c&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mireu930&layout=compact)
+
 </div>
