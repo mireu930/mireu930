@@ -55,7 +55,7 @@ ___
 
 ### 🙏 stats
 ___
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mireu930&include_all_commits=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mireu930&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mireu930&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mireu930&layout=compact&theme=dracula)
 
 </div>
