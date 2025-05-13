@@ -15,17 +15,22 @@
 ___
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
- <img src="https://img.shields.io/badge/UIKit-00a7ff?style=flat-square&logo=Swift&logoColor=white">
-<br>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"> 
 
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+ <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> 
 <!-- <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">  -->
 <img src="https://img.shields.io/badge/Ajax-2c83b9?style=flat-square&logo=Ajax&logoColor=white">
  <img src="https://img.shields.io/badge/Jsp-e76f00?style=flat-square&logo=Jsp&logoColor=white"> 
+
+<br>
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-00a7ff?style=flat-square&logo=Swift&logoColor=white">
+<br>
  <br>
 <br>
 <br>
